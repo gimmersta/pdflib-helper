@@ -1,5 +1,5 @@
 {
-  "name": "rebelwalls/pdflib-helper",
+  "name": "gimmersta/pdflib-helper",
   "description": "Wrapper for generating Pdf files with PdfLib",
   "type": "library",
   "keywords": ["laravel", "pdflib", "pdf"],
@@ -7,11 +7,11 @@
   "authors": [
     {
       "name": "Edward Karlsson",
-      "email": "edward@rebelwalls.com"
+      "email": "edward.karlsson@gimmersta.com"
     },
     {
       "name": "Daniel Nordström",
-      "email": "daniel@rebelwalls.com"
+      "email": "daniel.nordstrom@gimmersta.com"
     }
   ],
   "require": {
@@ -24,8 +24,8 @@
   },
   "autoload": {
     "psr-4": {
-      "RebelWalls\\PdfLibHelper\\": "src/",
-      "RebelWalls\\PdfLibHelper\\Tests\\": "tests/"
+      "Gimmersta\\PdfLibHelper\\": "src/",
+      "Gimmersta\\PdfLibHelper\\Tests\\": "tests/"
     }
   },
   "scripts": {
@@ -34,7 +34,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "RebelWalls\\PdfLibHelper\\ServiceProvider"
+        "Gimmersta\\PdfLibHelper\\ServiceProvider"
       ]
     }
   }
