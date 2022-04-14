@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Assets;
+namespace Gimmersta\PdfLibHelper\Assets;
 
 use Illuminate\Support\Collection;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Helpers;
+namespace Gimmersta\PdfLibHelper\Helpers;
 
 /**
  * Class PdfPosition

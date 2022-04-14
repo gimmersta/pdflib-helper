@@ -1,21 +1,21 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper;
+namespace Gimmersta\PdfLibHelper;
 
 use PDFlib;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawCircle;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawPdfDocument;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawRectangle;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawTextFlow;
-use RebelWalls\PdfLibHelper\Helpers\PdfColor;
-use RebelWalls\PdfLibHelper\Helpers\PdfPosition;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawCell;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawGraphic;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawImage;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawKeyValueTable;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawLine;
-use RebelWalls\PdfLibHelper\Concerns\CanDrawTable;
-use RebelWalls\PdfLibHelper\Helpers\PdfText;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawCircle;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawPdfDocument;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawRectangle;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawTextFlow;
+use Gimmersta\PdfLibHelper\Helpers\PdfColor;
+use Gimmersta\PdfLibHelper\Helpers\PdfPosition;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawCell;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawGraphic;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawImage;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawKeyValueTable;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawLine;
+use Gimmersta\PdfLibHelper\Concerns\CanDrawTable;
+use Gimmersta\PdfLibHelper\Helpers\PdfText;
 
 /**
  * @property PdfLib pdf

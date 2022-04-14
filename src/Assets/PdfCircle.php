@@ -1,8 +1,8 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Assets;
+namespace Gimmersta\PdfLibHelper\Assets;
 
-use RebelWalls\PdfLibHelper\Helpers\PdfColor;
+use Gimmersta\PdfLibHelper\Helpers\PdfColor;
 
 class PdfCircle extends BaseAsset
 {

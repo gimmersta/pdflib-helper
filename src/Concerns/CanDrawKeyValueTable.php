@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
 use Illuminate\Support\Collection;
 

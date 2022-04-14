@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper;
+namespace Gimmersta\PdfLibHelper;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {

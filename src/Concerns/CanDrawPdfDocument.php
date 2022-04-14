@@ -1,8 +1,8 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfDocument;
+use Gimmersta\PdfLibHelper\Assets\PdfDocument;
 
 trait CanDrawPdfDocument
 {

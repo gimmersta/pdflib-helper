@@ -1,6 +1,6 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper;
+namespace Gimmersta\PdfLibHelper;
 
 use Illuminate\Support\Facades\Storage;
 

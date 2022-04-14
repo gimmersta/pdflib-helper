@@ -1,8 +1,8 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfGraphic;
+use Gimmersta\PdfLibHelper\Assets\PdfGraphic;
 
 trait CanDrawGraphic
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfCell;
-use RebelWalls\PdfLibHelper\Helpers\PdfText;
+use Gimmersta\PdfLibHelper\Assets\PdfCell;
+use Gimmersta\PdfLibHelper\Helpers\PdfText;
 
 /**
  * Trait CanDrawCell

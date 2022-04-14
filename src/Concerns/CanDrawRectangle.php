@@ -1,9 +1,9 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfRectangle;
-use RebelWalls\PdfLibHelper\Helpers\PdfColor;
+use Gimmersta\PdfLibHelper\Assets\PdfRectangle;
+use Gimmersta\PdfLibHelper\Helpers\PdfColor;
 
 trait CanDrawRectangle
 {

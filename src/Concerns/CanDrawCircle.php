@@ -1,9 +1,9 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfCircle;
-use RebelWalls\PdfLibHelper\Helpers\PdfColor;
+use Gimmersta\PdfLibHelper\Assets\PdfCircle;
+use Gimmersta\PdfLibHelper\Helpers\PdfColor;
 
 trait CanDrawCircle
 {

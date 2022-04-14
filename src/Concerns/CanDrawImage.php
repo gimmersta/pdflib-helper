@@ -1,10 +1,10 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Str;
-use RebelWalls\PdfLibHelper\Assets\PdfImage;
+use Gimmersta\PdfLibHelper\Assets\PdfImage;
 
 trait CanDrawImage
 {

@@ -1,11 +1,11 @@
 <?php
 
-namespace RebelWalls\PdfLibHelper\Concerns;
+namespace Gimmersta\PdfLibHelper\Concerns;
 
-use RebelWalls\PdfLibHelper\Assets\PdfCell;
-use RebelWalls\PdfLibHelper\Assets\PdfLine;
-use RebelWalls\PdfLibHelper\Assets\PdfTable;
-use RebelWalls\PdfLibHelper\Helpers\PdfColor;
+use Gimmersta\PdfLibHelper\Assets\PdfCell;
+use Gimmersta\PdfLibHelper\Assets\PdfLine;
+use Gimmersta\PdfLibHelper\Assets\PdfTable;
+use Gimmersta\PdfLibHelper\Helpers\PdfColor;
 use Illuminate\Support\Collection;
 
 trait CanDrawTable
