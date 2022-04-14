@@ -20,7 +20,7 @@
     "ext-pdflib": "*"
   },
   "require-dev": {
-    "mockery/mockery": "^0.9.5"
+    "mockery/mockery": "^1.4.4"
   },
   "autoload": {
     "psr-4": {
